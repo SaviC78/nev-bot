@@ -1,0 +1,17 @@
+{
+    "title": "",
+    "description": "**toodaloo**",
+    "color": null,
+    "author": {
+        "name": "",
+        "icon_url": ""
+    },
+    "image": "",
+    "thumbnail": "{user.avatar}",
+    "footer": {
+        "text": "",
+        "icon_url": ""
+    },
+    "timestamp": null,
+    "message_content": "Goodbye ***{user.name}***"
+}

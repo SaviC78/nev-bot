@@ -1,0 +1,17 @@
+{
+    "title": "",
+    "description": "Im savi\nSavi is cool\n\ud83d\ude0e",
+    "color": null,
+    "author": {
+        "name": "",
+        "icon_url": ""
+    },
+    "image": "",
+    "thumbnail": "{user.avatar}",
+    "footer": {
+        "text": "",
+        "icon_url": ""
+    },
+    "timestamp": null,
+    "message_content": ""
+}

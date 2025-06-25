@@ -1,0 +1,17 @@
+{
+    "title": "",
+    "description": "**Read the ** <#1358624402446614680>",
+    "color": null,
+    "author": {
+        "name": "",
+        "icon_url": ""
+    },
+    "image": "",
+    "thumbnail": "{user.avatar}",
+    "footer": {
+        "text": "",
+        "icon_url": ""
+    },
+    "timestamp": null,
+    "message_content": "**Welcome** {user.mention}"
+}
