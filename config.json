@@ -1,0 +1,8 @@
+{
+    "embed_colors": {
+        "default": null,
+        "success": 65280,
+        "error": 16711680,
+        "warning": 16776960
+    }
+}
